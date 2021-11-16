@@ -34,3 +34,29 @@
 
 [17_GAN P4](https://unclestrong.github.io/DeepLearning_LHY21_Notes/Notes_html/17_GAN_P4.html)
 
+[18_BERT_P1](https://unclestrong.github.io/DeepLearning_LHY21_Notes/Notes_html/18_BERT_P1.html)
+
+[19_BERT_P2](https://unclestrong.github.io/DeepLearning_LHY21_Notes/Notes_html/19_BERT_P2.html)
+
+[20_BERT_P3](https://unclestrong.github.io/DeepLearning_LHY21_Notes/Notes_html/20_BERT_P3.html)
+
+[21_Auto-encoder_P1](https://unclestrong.github.io/DeepLearning_LHY21_Notes/Notes_html/21_Auto-encoder_P1.html)
+
+[22_Auto-encoder_P2](https://unclestrong.github.io/DeepLearning_LHY21_Notes/Notes_html/22_Auto-encoder_P2.html)
+
+[23_Adversarial Attack_P1](https://unclestrong.github.io/DeepLearning_LHY21_Notes/Notes_html/23_Adversarial%20Attack_P1.html)
+
+[24_Adversarial Attack_P2](https://unclestrong.github.io/DeepLearning_LHY21_Notes/Notes_html/24_Adversarial%20Attack_P2.html)
+
+[25_Explainable AI_P1](https://unclestrong.github.io/DeepLearning_LHY21_Notes/Notes_html/25_Explainable%20AI_P1.html)
+
+[26_Explainable AI_P2](https://unclestrong.github.io/DeepLearning_LHY21_Notes/Notes_html/26_Explainable%20AI_P2.html)
+
+[27_Domain Adaptation](https://unclestrong.github.io/DeepLearning_LHY21_Notes/Notes_html/27_Domain%20Adaptation.html)
+
+[28_Reinforcement Learning_P1](https://unclestrong.github.io/DeepLearning_LHY21_Notes/Notes_html/28_Reinforcement%20Learning_P1.html)
+
+[29_Reinforcement Learning_P2](https://unclestrong.github.io/DeepLearning_LHY21_Notes/Notes_html/29_Reinforcement%20Learning_P2.html)
+
+[30_Reinforcement Learning_P3](https://unclestrong.github.io/DeepLearning_LHY21_Notes/Notes_html/30_Reinforcement%20Learning_P3.html)
+
